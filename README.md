@@ -1,2 +1,2 @@
-Este es un cambio en my_branch personal
+Este es un cambio del branch de mi colega
 
